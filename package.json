@@ -1,5 +1,5 @@
 {
-  "name": "requirejson",
+  "name": "simplejsonrequire",
   "version": "1.0.0",
   "description": "Require a json settings file",
   "main": "index.js",
