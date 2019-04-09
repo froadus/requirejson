@@ -1,0 +1,19 @@
+{
+  "name": "requirejson",
+  "version": "1.0.0",
+  "description": "Require a json settings file",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/froadus/requirejson.git"
+  },
+  "author": "froadus",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/froadus/requirejson/issues"
+  },
+  "homepage": "https://github.com/froadus/requirejson#readme"
+}
